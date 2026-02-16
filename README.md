@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&pause=1000&color=00EAD3&center=true&vCenter=true&width=500&height=70&lines=I+am+Furqan Fayaz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=35&pause=1000&color=00EAD3&center=true&vCenter=true&width=500&height=70&lines=I+am+Furqan+Fayaz)](https://git.io/typing-svg)
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furqan-fayaz-509b0a376) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/furqanwani_01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:furqanfayaz83@gmail.com) 
